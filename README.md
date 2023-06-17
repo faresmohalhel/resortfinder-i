@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Resort-
-=======
 # resortfinder
 ## a resort reservation/booking system that simplifies the process on the client
 
@@ -13,4 +10,3 @@
 - javascript
 - vscode
 - git and github
->>>>>>> d2ed0cdfb6a5c157d3e310234b1cd21f59c742ce
